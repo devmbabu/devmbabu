@@ -11,39 +11,41 @@
 
 👋 Hi there! I'm Mohan Babu, a freelance MERN Trainer with 6 years of development experience and 5 years of teaching experience in the MERN stack. I love building scalable web applications and helping others master modern web development technologies.
 
-💻 What I Do
-MERN Stack Training
+<h2>💻 What I Do
+MERN Stack Training</h2>
 
-Hands-on workshops and personalized training.
+<h3>Hands-on workshops and personalized training.</h3>
 Beginner to advanced levels: React, Node.js, MongoDB, Express.js.
 Focused on practical skills and industry best practices.
-Web Development
 
+<h2>Web Development</h2>
 Full-stack development using the MERN stack.
 Scalable, maintainable, and performant solutions.
 <br />
-🚀 Skills
+
+<h2>🚀 Skills</h2>
 Frontend: React.js, Redux, Tailwind CSS, Material-UI
 Backend: Node.js, Express.js, REST APIs
 Database: MongoDB, Mongoose
 Tools & Platforms: Git, Docker, AWS, Firebase
 <br />
-📂 Featured Projects
-1. Training Portal
+
+<h2>📂 Featured Projects</h2>
+<h3>1. Training Portal</h3>
 Description: A platform for managing and delivering online MERN stack training sessions.
 Tech Stack: React, Node.js, MongoDB, Tailwind CSS
 
-2. E-Commerce Platform
+<h3>2. E-Commerce Platform</h3>
 Description: A scalable full-stack e-commerce solution.
 Tech Stack: MERN Stack, Stripe API for payments
 
-3. Blog CMS
+<h3>3. Blog CMS</h3>
 Description: A content management system for blogs.
 Tech Stack: React, Node.js, MongoDB, JWT Authentication
 
-📊 Stats
+<h2>📊 Stats</h2>
 
-📫 Let's Connect
+<h3>📫 Let's Connect</h3>
 I'm always open to collaborating on exciting projects or delivering impactful training. Feel free to reach out!
 <br />
 <h3>DEMO Works</h3>
