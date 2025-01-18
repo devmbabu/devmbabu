@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [9+ years of experience](9+ years of experience)
 
-- ⚡ Fun fact **I love teaching...**
+- ⚡ Fun fact **I love Development & Teaching...**
 
 <h3>DEMO Works</h3>
 <ul>
