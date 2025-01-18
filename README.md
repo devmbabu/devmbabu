@@ -48,12 +48,18 @@ Tech Stack: React, Node.js, MongoDB, JWT Authentication
 <h3>📫 Let's Connect</h3>
 I'm always open to collaborating on exciting projects or delivering impactful training. Feel free to reach out!
 <br />
-<h3>DEMO Works</h3>
+<h3>Sample Works</h3>
 <ul>
   <li><a href="https://devmbabu.github.io/HTML-Tables-website/" target="blank">Web Page in HTML and Table tags</a></li>
   <li><a href="https://devmbabu.github.io/HTML-CSS-Basic-layout/" target="blank">Website in HTML CSS- page linking  </a></li>
   <li><a href="https://devmbabu.github.io/Bootstrap-layout/" target="blank">Web Page in HTML Bootstrap -Responsive</a></li>
   <li><a href="https://devmbabu.github.io/Bootstrap-layout-page-linking-/" target="blank">Website in Bootstrap Page Linking - Responsive</li>
+</ul>
+
+<h3>Live Projects</h3>
+<ul>
+  <li><a href="https://devmbabu.github.io/cgva-website/index.html">Instutiation Website</a></li>
+  <li>Hospital Website</li>
 </ul>
 
 ### Blogs posts
