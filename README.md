@@ -3,24 +3,46 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmbabu&label=Profile%20views&color=0e75b6&style=flat" alt="devmbabu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+✨ Mohan Babu | MERN Stack Trainer & Developer
+🔗 Website/Portfolio | 💼 LinkedIn | 🐦 Twitter | 📧 Email
 
-- 🔭 I’m currently working as [freelancer](online trainer)
+👋 Hi there! I'm Mohan Babu, a freelance MERN Trainer with 6 years of development experience and 5 years of teaching experience in the MERN stack. I love building scalable web applications and helping others master modern web development technologies.
 
-- 👯 I’m looking to collaborate on [any instutiation](for training)
+💻 What I Do
+MERN Stack Training
 
-- 🤝 I’m looking for help with [MERN, React JS, Node JS](React Native)
+Hands-on workshops and personalized training.
+Beginner to advanced levels: React, Node.js, MongoDB, Express.js.
+Focused on practical skills and industry best practices.
+Web Development
 
-- 📝 I regularly write articles on [https://codeguruva.blogspot.com/](https://codeguruva.blogspot.com/)
+Full-stack development using the MERN stack.
+Scalable, maintainable, and performant solutions.
+<br />
+🚀 Skills
+Frontend: React.js, Redux, Tailwind CSS, Material-UI
+Backend: Node.js, Express.js, REST APIs
+Database: MongoDB, Mongoose
+Tools & Platforms: Git, Docker, AWS, Firebase
+<br />
+📂 Featured Projects
+1. Training Portal
+Description: A platform for managing and delivering online MERN stack training sessions.
+Tech Stack: React, Node.js, MongoDB, Tailwind CSS
 
-- 💬 Ask me about **your project support in Node js , React JS, MERN**
+2. E-Commerce Platform
+Description: A scalable full-stack e-commerce solution.
+Tech Stack: MERN Stack, Stripe API for payments
 
-- 📫 How to reach me **mbabuv999@gmail.com**
+3. Blog CMS
+Description: A content management system for blogs.
+Tech Stack: React, Node.js, MongoDB, JWT Authentication
 
-- 📄 Know about my experiences [9+ years of experience](9+ years of experience)
+📊 Stats
 
-- ⚡ Fun fact **I love Development & Teaching...**
-
+📫 Let's Connect
+I'm always open to collaborating on exciting projects or delivering impactful training. Feel free to reach out!
+<br />
 <h3>DEMO Works</h3>
 <ul>
   <li><a href="https://devmbabu.github.io/HTML-Tables-website/" target="blank">Web Page in HTML and Table tags</a></li>
