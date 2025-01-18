@@ -24,9 +24,9 @@
 <h3>DEMO Works</h3>
 <ul>
   <li><a href="https://devmbabu.github.io/HTML-Tables-website/" target="_new">Web Page in HTML and Table tags</a></li>
-  <li><a href="https://devmbabu.github.io/HTML-CSS-Basic-layout/" target="_new">Web Page in HTML CSS </a></li>
-  <li><a href="https://devmbabu.github.io/Bootstrap-layout/" target="_new">Web Page in HTML Bootstrap</a></li>
-  <li><a href="https://devmbabu.github.io/Bootstrap-layout-page-linking-/" target="_new">Website in Bootstrap - Responsive</li>
+  <li><a href="https://devmbabu.github.io/HTML-CSS-Basic-layout/" target="_new">Website in HTML CSS- page linking  </a></li>
+  <li><a href="https://devmbabu.github.io/Bootstrap-layout/" target="_new">Web Page in HTML Bootstrap -Responsive</a></li>
+  <li><a href="https://devmbabu.github.io/Bootstrap-layout-page-linking-/" target="_new">Website in Bootstrap Page Linking - Responsive</li>
 </ul>
 
 ### Blogs posts
