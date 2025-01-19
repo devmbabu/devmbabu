@@ -62,6 +62,11 @@ I'm always open to collaborating on exciting projects or delivering impactful tr
   <li>Hospital Website</li>
 </ul>
 
+<h3>My Trainings</h3>
+<ul>
+  <li>My Fiverr <a href="https://www.fiverr.com/s/8zeAkqp">Account</a></li>
+</ul>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
