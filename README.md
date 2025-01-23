@@ -7,7 +7,7 @@
 
 
 ✨ Mohan Babu | MERN Stack Trainer & Developer
-🔗 Website/Portfolio | 💼 LinkedIn | 🐦 Twitter | 📧 Email
+🔗 <a href="https://codeguruva.blogspot.com/" target="_new">Website/Portfolio</a> | 💼 <a href="www.linkedin.com/in/tutmbabu" target="_new">LinkedIn</a> | 🐦 Twitter | 📧 Email
 
 👋 Hi there! I'm Mohan Babu, a freelance MERN Trainer with 6 years of development experience and 5 years of teaching experience in the MERN stack. I love building scalable web applications and helping others master modern web development technologies.
 
